@@ -4,8 +4,8 @@
     "chromium-args": "--force-color-profile=srgb --disable-devtools",
     "window": {
         "title": "Gamification",
-        "width": 816,
-        "height": 624,
+        "width": 1980,
+        "height": 1080,
         "position": "center",
         "icon": "icon/icon.png"
     }
